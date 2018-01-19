@@ -12,7 +12,7 @@
   </head>
 <body>
     <header>
-        <img src="ken.jpg" width="200" height="273" alt="My Profile Picture"> 
+        <img src="Ken.jpg" width="200" height="273" alt="My Profile Picture"> 
         <h1> Ken Strobell</h1>
     </header>
     <nav>
