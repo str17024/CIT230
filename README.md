@@ -5,7 +5,7 @@
     <title>CIT230 Asignment Protal | Ken Strobell | BYU-Idaho</title>  
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content=" Assignment Portal for Ken Strobell in CIT230: Web Development">
-    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="main2.css">
     <!--[if lt IE 9]>
     <script src="js/html5shim.js"></script>
     <![endif]-->
