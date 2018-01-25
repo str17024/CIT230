@@ -2,7 +2,7 @@
 <html lang="en-US">
   <head>
     <meta charset="utf-8">
-    <title>CIT230 Asignment Protal | Ken Strobell | BYU-Idaho</title>  
+    <meta title="CIT230 Asignment Protal | Ken Strobell | BYU-Idaho">  
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content=" Assignment Portal for Ken Strobell in CIT230: Web Development">
     <link rel="stylesheet" href="main2.css">
